@@ -1,6 +1,6 @@
 - 👋 Hi, I’m delsix
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java, Python
+- 🌱 I’m currently learning Java, Data Structures and Algorithms, Java Spring
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me delsix#6270
 
