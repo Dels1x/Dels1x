@@ -1,5 +1,5 @@
 - 👋 Ny name is Danislav Anufriev, welcome to my page
-- 👀 I’m interested in Web, Back-end development
+- 👀 I’m interested in Java, Back-end Java development
 - 🌱 I’m currently learning Spring Security, Rust
 - 📫 How to reach me?: Discord: delsix#6270, Telegram: @delsix
 
