@@ -1,7 +1,7 @@
 - 👋 Ny name is Danislav Anufriev, welcome to my page
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Spring Boot, Docker
-- 📫 How to reach me?: delsix#6270
+- 👀 I’m interested in Web, Back-end development
+- 🌱 I’m currently learning Spring Security, Rust
+- 📫 How to reach me?: Discord: delsix#6270, Telegram: @delsix
 
 <!---
 Dels1x/Dels1x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
