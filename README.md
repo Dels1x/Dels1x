@@ -1,6 +1,6 @@
 - 👋 Ny name is Danislav Anufriev, welcome to my page
 - 👀 I’m interested in Java, Back-end Web development
-- 🌱 I’m currently learning Spring Security, Rust
+- 🌱 I’m currently learning Hibernate, Spring Security, C++
 - 📫 How to reach me?: Discord: delsix#6270, Telegram: @delsix
 
 <!---
